@@ -1,0 +1,57 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "mario"
+    },
+    {
+      "id": 2,
+      "name": "luigi"
+    }
+  ],
+  "completions": [
+    {
+      "serviceRequestId": 1,
+      "plumberId": 1,
+      "date_completed": 1697224306335,
+      "id": 1
+    }
+  ],
+  "requests": [
+    {
+      "id": 1,
+      "description": "Aut sint voluptatem fugit eius quas molestiae modi.",
+      "address": "34445 Bianka Ports",
+      "budget": 400,
+      "neededBy": "2021-08-27"
+    },
+    {
+      "description": "Broken toilet",
+      "address": "123 place",
+      "budget": "2",
+      "neededBy": "2023-10-25",
+      "id": 2
+    },
+    {
+      "description": "theres a mouse",
+      "address": "123 place",
+      "budget": "3",
+      "neededBy": "2023-10-28",
+      "id": 6
+    },
+    {
+      "description": "mouse ",
+      "address": "12 place",
+      "budget": "2",
+      "neededBy": "2023-10-10",
+      "id": 8
+    },
+    {
+      "description": "sinks",
+      "address": "123 place ",
+      "budget": "12",
+      "neededBy": "2023-10-26",
+      "id": 10
+    }
+  ]
+}
